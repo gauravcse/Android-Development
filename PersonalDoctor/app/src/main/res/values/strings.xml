@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PersonalDoctor</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="side_bar">
+        <item>
+            Emergency Help
+        </item>
+        <item>
+            Doctor Finder
+        </item>
+        <item>
+            Forum
+        </item>
+        <item>
+            Sign-Out
+        </item>
+    </string-array>
+    <string name="ambulance_button_text_1">BOOK NOW</string>
+    <string name="ambulance_button_text_2">CHECK RATE</string>
+    <string name="ambulance_header">BOOK AMBULANCE</string>
+    <string name="donate">DONATE</string>
+    <string name="receive">HELP ME !!</string>
+    <string name="hospital1">HOSPITAL 1</string>
+    <string name="hospital2">HOSPITAL 2</string>
+    <string name="hospital3">HOSPITAL 3</string>
+    <string name="hospital4">HOSPITAL 4</string>
+    <string name="hospital5">HOSPITAL 5</string>
+</resources>

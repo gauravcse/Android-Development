@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#80DEEA"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:text="Sell"
+        android:textAllCaps="true"
+        android:id="@+id/customer"
+        android:layout_marginTop="96dp"
+        android:onClick="clicked"
+        android:background="#FF80AB"
+        android:textColor="#311B92"
+        android:textSize="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:textAllCaps="true"
+        android:text="Buy"
+        android:id="@+id/client"
+        tools:ignore="RtlCompat"
+        android:layout_marginTop="80dp"
+        android:onClick="clicked"
+        android:background="#FF80AB"
+        android:textColor="#311B92"
+        android:textSize="30dp"
+        android:layout_below="@+id/customer"
+        android:layout_alignLeft="@+id/customer"
+        android:layout_alignStart="@+id/customer" />
+
+</RelativeLayout>

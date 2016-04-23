@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WasteKart</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_customer">CustomerActivity</string>
+    <string name="title_activity_client">ClientActivity</string>
+    <string name="title_activity_database">database</string>
+    <string name="title_activity_final_page">final_page</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="bluetooth">
+        <item>Turn On</item>
+        <item>Discoverable</item>
+        <item>Turn Off</item>
+    </string-array>
+</resources>
